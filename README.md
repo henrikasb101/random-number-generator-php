@@ -1,4 +1,2 @@
-# random-number-generator-php
-Random number generator with PHP.
-
-## A basic random number generator from X to Y
+# A basic PHP random number generator
+Generates number from 'x' to 'y'.
